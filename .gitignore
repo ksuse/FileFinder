@@ -1,17 +1,14 @@
 *.class
 *~
-.DS_Store
+target
+
+# Eclipse
+.classpath
+.settings
+.project
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
-# Eclipse file
-.classpath
-.project
-.settings
-
-# Maven files
-target
 
 # Package Files #
 *.jar
